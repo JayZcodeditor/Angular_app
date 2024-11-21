@@ -1,0 +1,6 @@
+package config
+
+const (
+	SupabaseURL = "https://cmilajdpfrfutrqbtrci.supabase.co"
+	SupabaseKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNtaWxhamRwZnJmdXRycWJ0cmNpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzIxNTgyNTMsImV4cCI6MjA0NzczNDI1M30.xalcIJPH3h_hez9PxepQ1L1khdMHF-kR-1u_0AMJd1A"
+)
